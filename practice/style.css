@@ -1,0 +1,20 @@
+body {
+    background-color: azure;
+    height: 200px;
+    width: 200px;
+    margin:50px;
+    border-color: red;
+
+
+}
+
+p {
+    color:blue;
+
+}
+
+a {
+    color:green;
+    
+
+}
